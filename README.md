@@ -6,4 +6,4 @@
 
 🖌 Since 2017, I have also been active as a freelance 3D artist, where I have not only refined my 3D software skills, but have also honed my project management style.
 
-🎵 I like making art and music, watching B-movies and making Halloween costumes!
+🎵 I like art and music, watching B-movies and making Halloween costumes!
