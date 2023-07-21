@@ -1,6 +1,6 @@
-### 👋 Hello, I'm Joanna
+## 👋 Hello, I'm Joanna
 
-## Looking to bridge my passion for coding and my eye for design, I am thrilled to be pursuing new opportunities in tech industry!  
+### Looking to bridge my passion for coding and my eye for design, I am thrilled to be pursuing new opportunities in tech industry!  
 
 📐 With seven years of experience in architecture, I have sharpened my attention to detail, problem-solving, and time management skills - all of which I am eager to apply to the dynamic field of web development and product design.
 
